@@ -9,7 +9,7 @@ Watch Face application for Garmin smartwatches:
     fēnix® 6X Pro, fēnix® 6X Sapphire, fēnix® 6X Pro Solar  
 </pre>  
 ## Screenshots   
-<img src="https://github.com/blackart0/Garmin_WatchFace_Example/blob/master/Screenshot/Screenshot-1.jpg" height="556px" />|<img src="https://github.com/blackart0/Garmin_WatchFace_Example/blob/master/Screenshot/Screenshot-2.jpg" height="556px" />  
+<img src="https://github.com/blackart0/Garmin_WatchFace_Example/blob/main/Screenshot/Screenshot-1.jpg" height="556px" />|<img src="https://github.com/blackart0/Garmin_WatchFace_Example/blob/main/Screenshot/Screenshot-2.jpg" height="556px" />  
 ## Garmin Connect IQ Store  
 <https://apps.garmin.com/en-US/developer/9fcb3d79-c40a-42e3-83bd-cbb2761c9ddb/apps>  
 
