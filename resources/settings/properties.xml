@@ -1,0 +1,11 @@
+<properties>
+    <property id = "BackgroundColor" type="number">0x000000</property>
+    <property id = "ForegroundColor" type="number">0xFFFFFF</property>
+    <property id = "IconColor" type="number">0x00FF00</property>
+    <property id = "HourColor" type="number">0xFF5500</property>
+    <property id = "MinColor" type="number">0x00FF00</property>
+    <property id = "UseMilitaryFormat" type="boolean">false</property>
+	<property id = "appVersion" type="string">0.2.1</property>
+	<property id = "WeatherApiKey" type="string"></property>
+	<property id = "weather-provider" type="number">1</property>
+</properties>

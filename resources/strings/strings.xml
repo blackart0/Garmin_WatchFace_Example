@@ -1,0 +1,36 @@
+<strings>
+
+    <string id="AppName">Garmin_WatchFace_Example</string>
+    <string id="AppVersionValue">0.2.1</string>
+    <string id="AppVersionTitle">App Version</string>
+    
+    <string id="WeatherApiKeyTitle">Weather API key, if OpenWeatherMap.org or QWeather.com was chosen above</string>
+    <string id="weatherProviderTitle">Choose the weather provider</string>
+    <string id="openWeatherMapTitle">OpenWeatherMap.org</string>
+    <string id="garminWeatherTitle">Garmin Weather</string>
+    <string id="qWeatherTitle">QWeather.com</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+    <string id="ForegroundColorTitle">Foreground Color</string>
+    <string id="IconColorTitle">Icon Color</string>
+    <string id="HourColorTitle">Time Hour Font Color</string>
+    <string id="MinColorTitle">Time Min Font Color</string>
+    <string id="MilitaryFormatTitle">Military Format for 24 Hour Time</string>
+
+    <string id="ColorBlack">Black</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorDarkRed">Dark Red</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorDarkGreen">Dark Green</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorDarkBlue">Dark Blue</string>
+    <string id="ColorPurple">Purple</string>
+    <string id="ColorPink">Pink</string>
+
+	
+</strings>

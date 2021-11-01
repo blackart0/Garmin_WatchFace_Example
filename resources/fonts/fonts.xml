@@ -1,0 +1,13 @@
+<fonts>
+<!--
+	<font id="IconsFont" filename="crystal-icons.fnt" antialias="true"/>
+	<font id="IconsSmallFont" filename="icons-25px.fnt" antialias="true" />
+	<font id="HoursFont" filename="PM_107_bold.fnt" antialias="true"/>
+	<font id="MinutesFont" filename="PM_107_regular.fnt" antialias="true"/>
+	<font id="WeatherIconsfont" filename="IconFont.fnt" antialias="true"/>
+	<font id="IconsFont18px" filename="icons-18px-export.fnt" antialias="true"/>
+	<font id="IconsFont24px" filename="icons-24px-export.fnt" antialias="true"/>
+	<font id="IconsFont18px" filename="icons-18px-export.fnt" antialias="true"/>
+-->
+	<font id="IconsFont20px" filename="icons-20px-export.fnt" antialias="true"/>
+</fonts>
